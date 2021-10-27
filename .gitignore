@@ -1,0 +1,5 @@
+App/database/db/
+App/frontend/amateurscore/node_modules/
+App/backend/amateurscore/.config.json
+App/database/.env
+App/backend/ENV/
